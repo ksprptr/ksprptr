@@ -2,21 +2,21 @@
 
 #### Full-Stack Website Developer.
 
-### Technologies I use:
+### Tools & Technologies I use:
 
 #### Software
 
-<a href="https://code.visualstudio.com/">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.dortwess.com/github/icons/visualstudiocode.png" alt="visualstudiocode" width="28px" height="28px">
 </a>
-<a href="https://www.jetbrains.com/rider">
+<a href="https://www.jetbrains.com/rider" target="_blank" rel="noreferrer">
   <img src="https://cdn.dortwess.com/github/icons/rider.png" alt="rider" width="28px" height="28px">
 </a>
-<a href="https://www.jetbrains.com/idea">
-  <img src="https://cdn.dortwess.com/github/icons/intellijidea.png" alt="rider" width="28px" height="28px">
+<a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer">
+  <img src="https://cdn.dortwess.com/github/icons/intellijidea.png" alt="intellijidea" width="28px" height="28px">
 </a>
 
-#### Languages and Technologies
+#### Languages & Technologies
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.dortwess.com/github/icons/javascript.png" alt="javascript" width="28px" height="28px"/> 

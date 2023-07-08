@@ -1,36 +1,50 @@
-<h1 align="left">Hi, I'm Petr</h1>
-<h3 align="left">Full-Stack Website Developer.</h3>
+# Hi there, I'm [Petr](https://dortwess.com/)
 
-<h3 align="left">Technologies I use:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-</p>
+#### Full-Stack Website Developer.
+
+### Technologies I use:
+
+#### Software
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://cdn.dortwess.com/github/icons/visualstudiocode.png" alt="visualstudiocode" width="28px" height="28px">
+</a>
+<a href="https://www.jetbrains.com/rider">
+  <img src="https://cdn.dortwess.com/github/icons/rider.png" alt="rider" width="28px" height="28px">
+</a>
+<a href="https://www.jetbrains.com/idea">
+  <img src="https://cdn.dortwess.com/github/icons/intellijidea.png" alt="rider" width="28px" height="28px">
+</a>
+
+#### Languages and Technologies
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.dortwess.com/github/icons/javascript.png" alt="javascript" width="28px" height="28px"/> 
+</a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.dortwess.com/github/icons/typescript.png" alt="typescript" width="28px" height="28px"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.dortwess.com/github/icons/html5.png" alt="html5" width="28px" height="28px"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.dortwess.com/github/icons/css3.png" alt="css3" width="28px" height="28px"/> 
+</a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.dortwess.com/github/icons/tailwindcss.png" alt="tailwind" width="28px" height="28px"/> 
+</a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.dortwess.com/github/icons/nextjs.png" alt="nextjs" width="28px" height="28px"/> 
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.dortwess.com/github/icons/reactjs.png" alt="react" width="28px" height="28px"/> 
+</a> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.dortwess.com/github/icons/csharp.png" alt="csharp" width="28px" height="28px"/> 
+</a> 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.dortwess.com/github/icons/dotnet.png" alt="dotnet" width="28px" height="28px"/> 
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.dortwess.com/github/icons/java.png" alt="java" width="28px" height="28px"/> 
+</a>

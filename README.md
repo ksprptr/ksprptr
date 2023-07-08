@@ -3,7 +3,7 @@
 #### Full-Stack Website Developer.
 
 ### Technologies I use:
-
+---
 #### Software
 
 <a href="https://code.visualstudio.com/">

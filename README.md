@@ -9,6 +9,9 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.dortwess.com/github/icons/visualstudiocode.png" alt="visualstudiocode" width="28px" height="28px">
 </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.dortwess.com/github/icons/visualstudio.png" alt="visualstudiocode" width="28px" height="28px">
+</a>
 <a href="https://www.jetbrains.com/rider" target="_blank" rel="noreferrer">
   <img src="https://cdn.dortwess.com/github/icons/rider.png" alt="rider" width="28px" height="28px">
 </a>

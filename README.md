@@ -7,7 +7,7 @@
 #### Software development
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.kasparpetr.com/icons/visualstudiocode.png" alt="Visual Studio Code" width="28px" height="28px"/> 
+  <img src="https://cdn.kasparpetr.com/icons/vsc.png" alt="Visual Studio Code" width="28px" height="28px"/> 
 </a> 
 <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.kasparpetr.com/icons/rider.png" alt="Rider" width="28px" height="28px"/> 

@@ -1,4 +1,4 @@
-# Full-Stack Website Developer
+# Web & App Programmer
 
 ```ts
 import { Profile } from 'github';
@@ -23,20 +23,20 @@ const kasparrpetr: CustomProfile = {
   name: 'Petr Kašpar',
   username: 'kasparrpetr',
   pronouns: 'he/him',
-  bio: 'Full-Stack Website Developer.',
+  bio: 'Web & App Programmer',
   knowledge: {
     languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java', 'C#'],
-    frameworks: ['Next.js', 'React', 'ASP.NET'],
-    technologies: ['TailwindCSS', 'Node.js', 'Prisma'],
+    frameworks: ['Next.js', 'React', 'React Native', 'Tailwind CSS', 'ASP.NET'],
+    technologies: ['Node.js', 'Prisma'],
   },
   software: {
     ide: ['Visual Studio Code', 'IntelliJ IDEA', 'Rider'],
-    devOps: ['Docker'],
+    devOps: ['Docker', 'Git'],
   },
   contact: [
     { platform: 'email', contact: 'contact@kasparpetr.com' },
-    { platform: 'discord', contact: 'dortwess' },
-    { platform: 'instagram', contact: '@kasparrpetr' },
+    { platform: 'discord', contact: '@kasparrpetr' },
+    { platform: 'instagram', contact: '@ksprptr' },
   ],
 };
 

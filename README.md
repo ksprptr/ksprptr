@@ -19,9 +19,9 @@ interface CustomProfile extends Profile {
   }[];
 }
 
-const kasparrpetr: CustomProfile = {
+const ksprptr: CustomProfile = {
   name: 'Petr Kašpar',
-  username: 'kasparrpetr',
+  username: 'ksprptr',
   pronouns: 'he/him',
   bio: 'Web & App Programmer',
   knowledge: {
@@ -34,8 +34,8 @@ const kasparrpetr: CustomProfile = {
     devOps: ['Docker', 'Git'],
   },
   contact: [
-    { platform: 'email', contact: 'contact@kasparpetr.com' },
-    { platform: 'discord', contact: '@kasparrpetr' },
+    { platform: 'email', contact: 'contact@ksprptr.dev' },
+    { platform: 'discord', contact: '@ksprptr' },
     { platform: 'instagram', contact: '@ksprptr' },
   ],
 };

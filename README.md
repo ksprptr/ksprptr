@@ -26,17 +26,17 @@ const ksprptr: CustomProfile = {
   bio: 'Web & App Programmer',
   knowledge: {
     languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java', 'C#'],
-    frameworks: ['Next.js', 'React', 'React Native', 'Tailwind CSS', 'ASP.NET'],
-    technologies: ['Node.js', 'Prisma'],
+    frameworks: ['Next.js', 'React Native', 'Expo', 'Tailwind CSS', 'ASP.NET'],
+    technologies: ['Node.js', 'React', 'Prisma ORM'],
   },
   software: {
-    ide: ['Visual Studio Code', 'IntelliJ IDEA', 'Rider'],
+    ide: ['Visual Studio Code', 'IntelliJ IDEA', 'WebStorm', 'Rider'],
     devOps: ['Docker', 'Git'],
   },
   contact: [
     { platform: 'email', contact: 'contact@ksprptr.dev' },
     { platform: 'discord', contact: '@ksprptr' },
-    { platform: 'instagram', contact: '@ksprptr' },
+    { platform: 'linkedin', contact: '@ksprptr' },
   ],
 };
 

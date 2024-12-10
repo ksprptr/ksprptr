@@ -40,5 +40,5 @@ const ksprptr: CustomProfile = {
   ],
 };
 
-export default kasparrpetr;
+export default ksprptr;
 ```

@@ -28,8 +28,8 @@ const ksprptr: CustomProfile = {
   bio: 'Fullstack web developer specializing in fast and modern web applications with Next.js and backend services powered by NestJS.',
   knowledge: {
     languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Java', 'C#'],
-    libraries: ['React', 'TailwindCSS'],
-    frameworks: ['Next.js', 'NestJS', 'React Native', 'Expo', 'ASP.NET'],
+    libraries: ['React'],
+    frameworks: ['Next.js', 'NestJS', 'TailwindCSS', 'React Native', 'Expo', 'ASP.NET'],
     technologies: ['Node.js', 'Prisma ORM'],
   },
   software: {

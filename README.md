@@ -41,7 +41,6 @@ const ksprptr: CustomProfile = {
     { platform: 'email', contact: 'contact@ksprptr.dev' },
     { platform: 'discord', contact: '@ksprptr' },
     { platform: 'linkedin', contact: '@ksprptr' },
-    { platform: 'x', contact: '@ksprptr' },
   ],
 };
 

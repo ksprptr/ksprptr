@@ -1,23 +1,16 @@
 ```ts
-import { strict as assert } from 'node:assert';
-
-enum Mode {
-  Focus = 'focus',
-  Flow = 'flow',
+interface Profile {
+  name: string;
+  username: string;
+  roles: readonly string[];
 }
 
-enum Time {
-  Unknown = 'unknown',
-}
-
-const state = {
-  user: 'ksprptr',
-  mode: Mode.Focus,
-  time: Time.Unknown,
-  process: 'building web apps',
-};
-
-assert(state.mode === Mode.Focus);
-
-export default state;
+export default {
+  name: 'Petr Kašpar',
+  username: 'ksprptr',
+  roles: [
+    'Junior Full-Stack Developer',
+    'Video Maker',
+  ],
+} satisfies Profile;
 ```
